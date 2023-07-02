@@ -1,3 +1,5 @@
 This is a simple text file using for example
-firt file to
+first file to
 Now I am going to learn Bitbucket and Git hub
+code changed in the remote repository
+end here
