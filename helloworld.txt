@@ -1,3 +1,0 @@
-I am using git for practice
-I am working on Git command
-preparing for interviews.
